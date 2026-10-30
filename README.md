@@ -1,4 +1,4 @@
-# Sudoku Solver Web Application using Backtracking
+# Sudoku Solver using Backtracking
 
 MCA Mini Project — Design and Analysis of Algorithms
 Language: **Python 3** · Web framework: **Streamlit**
